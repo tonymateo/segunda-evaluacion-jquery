@@ -1,0 +1,35 @@
+body{
+  background-color: grey;
+}
+
+.preguntas{
+  font-family: verdana;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: yellow;
+  color: darkblue;
+}
+
+.preguntas:hover{
+  cursor: pointer;
+}
+
+.respuestas{
+  font-family: verdana;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 40px;
+  padding: 6px;
+  color: darkblue;
+}
+
+.cambioColor{
+  border: 5px;
+  width: 300px;
+  height: 40px;
+  font-weight: bold;
+  background-color: turquoise;
+}

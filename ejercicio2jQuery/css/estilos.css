@@ -1,0 +1,23 @@
+.titulo{
+  font-family: Arial;
+  font-size: 200%;
+  color: darkblue;
+  background-color: rgb(75, 147, 247);
+}
+
+.horizontal{
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  list-style-type: none;
+  font-family: Arial;
+  font-size: 22px;
+  font-weight: bold;
+  color: darkred;
+}
+
+.sublista{
+  font-family: Arial;
+  font-size: 18px;
+  color: darkgreen;
+}
